@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Harsh Raj (@MrCuttingEdge).
+- 👋 Hi, I’m Harsh Raj (@developerHarshRaj).
 - 👀 I’m interested in projects based on Java, HTML, CSS, JavaScript.
 - 🌱 I’m currently learning Web Development and DSA.
 - 💞️ I’m looking to collaborate on various hackathons and programming contests.
